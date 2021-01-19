@@ -1,6 +1,7 @@
 *.pyc
 *.swp
 docs/_build
+docs/build
 bin/
 include/
 lib/
@@ -19,4 +20,8 @@ build/
 .cache/
 tests/id_rsa
 *.DS_Store
-.mypy_cache
+.mypy_cache/
+.pytest_cache/
+t.py
+*.pem
+/.python-version

@@ -12,6 +12,8 @@ Maintainer(s)
 
 - Matt Chung (@itsmemattchung)
 
+- Thiago D'Ávila (@staticdev)
+
 Requests
 ````````
 
@@ -156,3 +158,49 @@ Contributors
 - Becca James (@beccasjames)
 
 - Walid Ziouche (@01walid)
+
+- Katie Bell (@katharosada)
+
+- Jeff Quast (@jquast)
+
+- Hal Wine (@hwine)
+
+- Jacopo Notarstefano (@jacquerie)
+
+- Taylor Edmiston (@tedmiston)
+
+- Jenny Li (@imjennyli)
+
+- Chandan Singh (@cs-shadow)
+
+- Raphael Vogel (@RaphaelVogel)
+
+- Andreas Burger (@AndreasBurger)
+
+- James E. Blair (@jeblair)
+
+- Simon Westphahl (@westphahl)
+
+- Steven Nyman (@stevennyman)
+
+- Tigran Tchougourian (@NargiT)
+
+- Samuel Mendes (@smendes)
+
+- Dimitri Merejkowsky (@dmerejkowsky)
+
+- Erico Fusco (@ericofusco)
+
+- Radomir Stevanovic (@randomir)
+
+- Ben Jefferies (@benjefferies)
+
+- Bharat Raghunathan (@Bharat123rox)
+
+- Kevin P. Fleming (@kpfleming)
+
+- Andrew Hayworth (@ahayworth)
+
+- Dmitry Kiselev (@dmitrykiselev27)
+
+- Adeodato Simó (@dato)
