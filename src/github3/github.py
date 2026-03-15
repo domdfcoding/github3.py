@@ -1442,7 +1442,7 @@ class GitHub(models.GitHubCore):
     def login_as_app(
         self,
         private_key_pem,
-        app_id,
+        app_id: str,
         expire_in=apps.DEFAULT_JWT_TOKEN_EXPIRATION,
     ):
         """Login as a GitHub Application.

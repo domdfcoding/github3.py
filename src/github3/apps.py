@@ -154,7 +154,7 @@ class Installation(models.GitHubCore):
         self.updated_at = self._strptime(json["updated_at"])
 
 
-def create_token(private_key_pem, app_id, expire_in=TEN_MINUTES_AS_SECONDS):
+def create_token(private_key_pem, app_id: str, expire_in=TEN_MINUTES_AS_SECONDS):
     """Create an encrypted token for the specified App.
 
     :param bytes private_key_pem:
